@@ -1,0 +1,18 @@
+{
+  "name": "consumo_api",
+  "version": "1.0.0",
+  "description": "consumo de API publica para teste de recursos do NODEjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "POKEMON"
+  ],
+  "author": "Joao Felipe dos Passos",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
